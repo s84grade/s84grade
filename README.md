@@ -1,16 +1,14 @@
-## Hi there 👋
+      ___  _  _                       _      
+ ___ ( _ )| || |   __ _ _ __ __ _  __| | ___ 
+/ __|/ _ \| || |_ / _` | '__/ _` |/ _` |/ _ \
+\__ \ (_) |__   _| (_| | | | (_| | (_| |  __/
+|___/\___/   |_|  \__, |_|  \__,_|\__,_|\___|
+                  |___/                      
+Hi, my name is Oleksandr 👋
+but I prefer to be called s84grade 😎 .
 
-<!--
-**s84grade/s84grade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner programmer, and my stack pool is not large, but I'm learning. 🥰
 
-Here are some ideas to get you started:
+I speak Russian, Ukrainian, English, German. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+telegram - @s84grade 🔥
